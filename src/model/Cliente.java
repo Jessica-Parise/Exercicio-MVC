@@ -1,4 +1,4 @@
-package mvc;
+package model;
 
 public class Cliente {
 	private int idCliente;

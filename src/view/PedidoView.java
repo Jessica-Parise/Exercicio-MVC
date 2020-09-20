@@ -1,4 +1,4 @@
-package mvc;
+package view;
 
 public class PedidoView {
 	public void imprimePedidoCliente(int idPedido, int fkCliente, String nfe, String dtEmissao, double valorTotal,

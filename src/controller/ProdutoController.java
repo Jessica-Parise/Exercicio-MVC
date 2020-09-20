@@ -1,4 +1,7 @@
-package mvc;
+package controller;
+
+import model.Produto;
+import view.ProdutoView;
 
 public class ProdutoController {
 	Produto model;

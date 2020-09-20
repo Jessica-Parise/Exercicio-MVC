@@ -1,4 +1,4 @@
-package mvc;
+package model;
 
 public class ProdutoPedido {
 	private int fk_idProduto;

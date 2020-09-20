@@ -1,4 +1,4 @@
-package mvc;
+package view;
 
 public class TelefoneView {
 	public void imprimeTelefoneCliente(int idTelefone, int fk_idCliente, String ddd, String numero) {
